@@ -1,17 +1,16 @@
-# team-34-student-management
-
-## Sample screenshot of the application
-
-<img width="43px" src="" />
-
-## Postman Documentation
-## Workspace Link - <a href='https://www.postman.com/universal-equinox-64003/workspace/team-34/overview'>Click here</a>
-
 # Student Management
 
 **Student Database** is an API developed to manipulate data of university students. It is created with SpringBoot and tested with Postman.
 
 This is a platform agnostic API, meaning it doesn't require any specific frontend, backend or database to work. It can work with any configuration that uses the REST standard of API. The API is able to perform four operations to the database.
+
+## Sample screenshots of the application
+
+<img width='50%' src="images/View.jpeg" /> <img width='49%' src="images/Registration-page.jpeg" />
+<img width='49%' src="images/database.jpeg" /> <img width='50%' src="images/update-student-page-when-click-on-edit.jpeg" />
+
+## Postman Documentation
+## Workspace Link - <a href='https://www.postman.com/universal-equinox-64003/workspace/team-34/overview'>Click here</a>
 
 ## API Requests
 
