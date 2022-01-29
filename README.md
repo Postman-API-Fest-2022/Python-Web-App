@@ -1,5 +1,9 @@
 # team-34-student-management
 
+## Sample screenshot of the application
+
+<img width="43px" src="" />
+
 ## Postman Documentation
 ## Workspace Link - <a href='https://www.postman.com/universal-equinox-64003/workspace/team-34/overview'>Click here</a>
 
