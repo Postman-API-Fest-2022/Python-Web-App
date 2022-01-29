@@ -3,6 +3,7 @@
 **Student Database** is an API developed to manipulate data of university students. It is created with SpringBoot and tested with Postman.
 
 This is a platform agnostic API, meaning it doesn't require any specific frontend, backend or database to work. It can work with any configuration that uses the REST standard of API. The API is able to perform four operations to the database.
+
 Frontend node modules install - npm install @angular/cli. To run the web page use command -> ng serve, it will run the web page on localhost:4200
 For backend, open the backend file(Student file) on Eclipse IDE
 go to student folder -> src/main/java -> com.example.student -> StudentApplication.java. Open it and right click on it, got to -> Run as -> Java Application
