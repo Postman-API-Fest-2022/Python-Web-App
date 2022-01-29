@@ -1,8 +1,9 @@
 # team-34-student-management
 
 ## Postman Documentation
+## Workspace Link - <a href='https://www.postman.com/universal-equinox-64003/workspace/team-34/overview'>Click here</a>
 
-# Student Database
+# Student Management
 
 **Student Database** is an API developed to manipulate data of university students. It is created with SpringBoot and tested with Postman.
 
