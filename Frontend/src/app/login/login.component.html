@@ -1,0 +1,21 @@
+<nav class="navbar navbar-dark bg-primary justify-content-between">
+    <a class="navbar-brand">Student Management</a>
+    <form class="form-inline">
+      
+          <!-- <a class="btn btn btn-light btn-outline-info my-2 my-sm-0" href="dashboard">Log Out</a>  -->
+         
+       <a class="btn btn btn-light btn-outline-info my-2 my-sm-0" href="login">login</a>
+      <a class="btn btn btn-light btn-outline-info my-2 my-sm-0" href="dashboard">dashboard</a>
+       
+    </form>
+  </nav>
+<div class="hero">
+    <div class="form-box">
+<form class="input-group">
+    <input class="input-field" type="text" name="username" [(ngModel)]="username" id="username" placeholder="username" >
+    <input class="input-field" type="password" name="password" [(ngModel)]="password" id="password" placeholder="password">
+    <input class="submit-btn" type="submit" value="login" (click)="loginUser()">
+</form>
+</div>
+</div>
+<router-outlet></router-outlet>
